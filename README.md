@@ -16,8 +16,7 @@ That's all.
 
 This is an owl in a tree and has nothing to do with this project, but I think it's pretty cool:
 
-
-
+```
    ...    *    .   _  .   
 *  .  *     .   * (_)   *
   .      |*  ..   *   ..
