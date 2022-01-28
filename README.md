@@ -13,3 +13,21 @@ and 2 buttons
 when the user clicks on any of the above 2 buttons, the integrated terminal (or terminal popup) should display the searching logs and at the end, show time it required to search the file(s). 
 
 That's all. 
+
+This is an owl in a tree and has nothing to do with this project, but I think it's pretty cool:
+
+
+
+   ...    *    .   _  .   
+*  .  *     .   * (_)   *
+  .      |*  ..   *   ..
+   .  * \|  *  ___  . . *
+*   \/   |/ \/{o,o}     .
+  _\_\   |  / /)  )* _/_ *
+      \ \| /,--"-"---  ..
+_-----`  |(,__,__/__/_ .
+       \ ||      ..
+        ||| .            *
+        |||
+ejm98   |||
+  , -=-~' .-^- _
